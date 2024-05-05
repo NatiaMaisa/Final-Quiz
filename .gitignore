@@ -1,0 +1,5 @@
+cypress.config.js
+fixtures
+cypress/support/e2e.js
+downloads
+cypress/support/commands.js
